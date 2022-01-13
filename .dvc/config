@@ -1,4 +1,4 @@
 [core]
-    remote = myremote
-['remote "myremote"']
-    url = gdrive://1FFzmmy0HNs1YC20VHRA-WmgcHhYazEuV
+    remote = aitrekdataconfig
+['remote "aitrekdataconfig"']
+    url = ../rook-ceph-rgw-ocs-storagecluster-cephobjectstore.openshift-storage.svc.cluster.local:80
